@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello 👋
+
+Currently still try to switch profession in this old age, but i feel more younger now. lol.  previously I'm working as Frontend Developer but now I try to do DevOps since in my basic is networking. 
+
+If you have project related to DevOps and wanted to give me challenge please feel free to contact me at me@nurohman.com. 
+
+But please remember I'm still learning since this is new profession for me. 
+
 
 <!--
 **nucther/nucther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
