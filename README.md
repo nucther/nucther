@@ -6,6 +6,7 @@ If you have project related to DevOps and wanted to give me challenge please fee
 
 But please remember I'm still learning since this is new profession for me. 
 
+<a href="https://www.linkedin.com/in/nucther/" style="display:flex;align-items:center;"><img src="icons8-linkedin.svg" style="font-size:16px;background-color: #ff6600;color: white;"></a>
 
 <!--
 **nucther/nucther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
