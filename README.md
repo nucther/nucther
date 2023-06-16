@@ -7,7 +7,7 @@ If you have project related to DevOps and wanted to give me challenge please fee
 But please remember I'm still learning since this is new profession for me. 
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40nucther&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fnucther%2F)](https://www.linkedin.com/in/nucther/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcvbweGw-5InsoJ2o4jm7cw?label=Nurohman&style=social)](https://youtube.com/@nurohman.)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCcvbweGw-5InsoJ2o4jm7cw?label=Nurohman&style=social)](https://youtube.com/@rohman-dev)
 
 <!--
 **nucther/nucther** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
